@@ -36,7 +36,7 @@ add_executable( king-arthur-model
 )
 
 
-target_link_libraries(padi25_08la
+target_link_libraries(king-arthur-model
         LibGameObjects
         LibData
         SFML::Graphics
